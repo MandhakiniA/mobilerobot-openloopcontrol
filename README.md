@@ -88,9 +88,8 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![WhatsApp Image 2023-12-30 at 04 58 23_48419815](https://github.com/MandhakiniA/mobilerobot-openloopcontrol/assets/150005194/1cd48016-73fa-410b-ae2e-8cfc34324003)
 
-Insert image here
 
 
 <br/>
