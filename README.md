@@ -20,9 +20,11 @@ Step4: Give time.sleep() for a break.
 Step5: Give ep_chassis.drive_speed to have a circular movement.
 
 ## Program
+~~~
 from robomaster import robot
 import time
 from robomaster import camera
+~~~
 
 if _name_ == '_main_':
     ep_robot = robot.Robot()
