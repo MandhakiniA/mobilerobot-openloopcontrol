@@ -25,7 +25,7 @@ from robomaster import robot
 import time
 from robomaster import camera
 ~~~
-
+~~~
 if _name_ == '_main_':
     ep_robot = robot.Robot()
     ep_robot.initialize(conn_type="ap")
@@ -86,6 +86,7 @@ if _name_ == '_main_':
     print("Stopped video streaming.....")
 
     ep_robot.close()
+~~~
 
 
 ## MobileRobot Movement Image:
